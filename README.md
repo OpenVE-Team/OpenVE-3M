@@ -24,12 +24,12 @@ Jie Wang<sup>2*</sup>,
 
 <div align="center">
   <a href="https://lewandofskee.github.io/projects/OpenVE/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
-  <a href="https://arxiv.org/abs/"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
+  <a href="https://arxiv.org/abs/2512.07826"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
   <a href="https://www.modelscope.cn/models/"><img src="https://img.shields.io/static/v1?label=Model&message=ModelScope&color=blue"></a> &ensp;
   
-  <a href="https://huggingface.co/Lewandofski/OpenVE-Edit"><img src="https://img.shields.io/static/v1?label=OpenVE-Edit%20Model&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/datasets/Lewandofski/OpenVE-3M"><img src="https://img.shields.io/static/v1?label=OpenVE-3M%20Dataset&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/datasets/Lewandofski/OpenVE-Bench"><img src="https://img.shields.io/static/v1?label=OpenVE-Bench&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/Bytedance/OpenVE-Edit"><img src="https://img.shields.io/static/v1?label=OpenVE-Edit%20Model&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/datasets/Bytedance/OpenVE-3M"><img src="https://img.shields.io/static/v1?label=OpenVE-3M%20Dataset&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/datasets/Bytedance/OpenVE-Bench"><img src="https://img.shields.io/static/v1?label=OpenVE-Bench&message=HuggingFace&color=yellow"></a> &ensp;
 </div>
 
 ---
@@ -61,7 +61,7 @@ If you find OpenVE useful for your research and applications, please cite using 
 @article{he2025openve-3m,
       title={OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing}, 
       author={Haoyang He, Jie Wang, Jiangning Zhang, Zhucun Xue, Xingyuan Bu, Qiangpeng Yang, Shilei Wen, Lei Xie},
-      journal={arXiv preprint arXiv:2512.},
+      journal={arXiv preprint arXiv:2512.07826},
       year={2025}
 }
 ```
