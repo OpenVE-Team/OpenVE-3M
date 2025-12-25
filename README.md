@@ -28,8 +28,8 @@ Jie Wang<sup>2*</sup>,
   <a href="https://www.modelscope.cn/models/"><img src="https://img.shields.io/static/v1?label=Model&message=ModelScope&color=blue"></a> &ensp;
   
   <a href="https://huggingface.co/Bytedance/OpenVE-Edit"><img src="https://img.shields.io/static/v1?label=OpenVE-Edit%20Model&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/datasets/Bytedance/OpenVE-3M"><img src="https://img.shields.io/static/v1?label=OpenVE-3M%20Dataset&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/datasets/Bytedance/OpenVE-Bench"><img src="https://img.shields.io/static/v1?label=OpenVE-Bench&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/datasets/Lewandofski/OpenVE-3M"><img src="https://img.shields.io/static/v1?label=OpenVE-3M%20Dataset&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/datasets/Lewandofski/OpenVE-Bench"><img src="https://img.shields.io/static/v1?label=OpenVE-Bench&message=HuggingFace&color=yellow"></a> &ensp;
 </div>
 
 ---
@@ -38,9 +38,9 @@ Jie Wang<sup>2*</sup>,
 
 ## 📑 Open-Source Plan
 The dataset, code, model, and benchmark are currently under review. Please stay tuned.
-- [ ] OpenVE-3M Dataset
+- [x] OpenVE-3M Dataset
 - [ ] OpenVE-Edit Model
-- [ ] OpenVE-Bench Benchmark
+- [x] OpenVE-Bench Benchmark
 - [ ] Inference & Multi-gpus Sequence Parallel inference
 - [ ] Fine-tuning & Lora-tuning scripts
 
