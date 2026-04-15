@@ -9,8 +9,8 @@
 
 [Haoyang He<sup>1*</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
 Jie Wang<sup>2*</sup>,
-[Jiangning Zhang<sup>1</sup>](https://zhangzjn.github.io),
-[Zhucun Xue<sup>1#</sup>](https://scholar.google.com/citations?user=m3KDreEAAAAJ&hl=en),
+[Jiangning Zhang<sup>1#</sup>](https://zhangzjn.github.io),
+[Zhucun Xue<sup>1</sup>](https://scholar.google.com/citations?user=m3KDreEAAAAJ&hl=en),
 
 [Xingyuan Bu<sup>2</sup>](https://scholar.google.com/citations?hl=en&user=cqYaRhUAAAAJ&view_op=list_works),
 [Qiangpeng Yang<sup>2</sup>](https://scholar.google.com/citations?user=vr9z1VQAAAAJ&hl=en&oi=ao),
